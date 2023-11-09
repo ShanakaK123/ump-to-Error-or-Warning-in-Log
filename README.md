@@ -1,4 +1,4 @@
-# Improvement - Jump-to-Error-or-Warning-in-Log  
+# Improvement Type - Jump-to-Error-or-Warning-in-Log  
 
 # Original Remarks 
 
