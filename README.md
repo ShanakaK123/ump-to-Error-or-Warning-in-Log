@@ -13,6 +13,8 @@ While troubleshooting primarily internally (consultants) as well as for some cus
 # Remarks 
 
 Jira Link - https://jira.typefi.com/browse/SERVER-7499
+
 Reporter -  Eric Damitz
+
 Attachments - Non
 
