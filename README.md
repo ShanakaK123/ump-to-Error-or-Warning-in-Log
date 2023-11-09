@@ -6,7 +6,7 @@ When viewing a log file on the server, we can toggle on/off Info, Warn, and Erro
 
 # Why is it necessary to improve?
 
-While troubleshooting primarily internally (consultants) as well as for some customers, We look in to the error messages and warnings to understand the problem. If this Jump in to error / warning log is there, consultants / customers can jump back and forth to see what is causing the error and what exactly happened previously, which is much easier.
+While troubleshooting primarily internally (consultants) as well as for some customers, We look in to the error messages and warnings to understand the problem. If this Jump in to error / warning log is there, consultants / customers can jump back and forth to see what is causing the error and what exactly happened previously, which is much easier. Although the search option was suggested back then, it may not solve the problem of identifying the source of the problem, therefore improvement in this area is really valued. 
 
 
 
