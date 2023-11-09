@@ -1,5 +1,4 @@
-# Jump-to-Error-or-Warning-in-Log 
-Improvement 
+# Jump-to-Error-or-Warning-in-Log - Improvement 
 
 Original Remarks 
 
